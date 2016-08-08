@@ -1,0 +1,33 @@
+_repo: Children-of-the-Ghetto--13-A-Study-of-a-Peculiar-People_12680
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+description: '"A novel set in late nineteenth-century London, Children of the Ghetto
+  gave an inside look into an immigrant community that was almost as mysterious to
+  the more established middle-class Jews of Britain as to the non-Jewish population,
+  providing a compelling analysis of a generation caught between the ghetto and modern
+  British life."--Goodreads.'
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Jews -- England -- London -- Fiction'
+- GITenberg
+title: 'Children of the Ghetto: A Study of a Peculiar People'
+url: http://www.gutenberg.org/ebooks/12680

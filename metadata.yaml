@@ -1,5 +1,8 @@
 _repo: Children-of-the-Ghetto--13-A-Study-of-a-Peculiar-People_12680
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zangwill, Israel
@@ -14,6 +17,8 @@ description: '"A novel set in late nineteenth-century London, Children of the Gh
   the more established middle-class Jews of Britain as to the non-Jewish population,
   providing a compelling analysis of a generation caught between the ghetto and modern
   British life."--Goodreads.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12680#Children-of-the-Ghetto--13-A-Study-of-a-Peculiar-People
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
